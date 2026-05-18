@@ -38,7 +38,7 @@ As ferramentas abaixo foram fundamentais para a execução deste desafio:
 Abaixo estão os links para a conferência de todos os requisitos do desafio:
 
 * **Página Oficial (GitHub Pages):** [https://johnrvaz.github.io](https://johnrvaz.github.io)
-* **Apresentação em Vídeo (YouTube):** 
+* **Apresentação em Vídeo (YouTube):[https://youtu.be/YUoc8EZlnBY]
 * **Perfil Profissional (LinkedIn):** [Acessar LinkedIn](https://www.linkedin.com/in/joao-pedro-vaz-52428b40a/)
 * **Site de Referência (Google Sites):** [Acessar Google Sites](https://sites.google.com/view/portifoliojohnvaz/in%C3%ADcio)
 
